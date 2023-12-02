@@ -1,0 +1,13 @@
+.game {
+  display: flex;
+  width: 100%;
+}
+.board {
+  flex:1;
+}
+button.blue {
+  background-color: aqua;
+}
+button.locked {
+  opacity: 0.5;
+}
